@@ -19,7 +19,6 @@ Local installation and usage:
   Database information can be altered in the database.php file in the root directory.
 
   Step 4: Open your browser to localhost to see the login page.
-  You may log in with the credentials username:'monkedia' and password:'monkedia'.
-  You may also register new accounts.
+  Click 'Register' and create your new account.
 
   Step 5: Manipulate the list of customers by adding new customers or removing existing customers.
