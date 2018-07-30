@@ -1,5 +1,5 @@
 # -Customer Managment Dashboard Application-
-# -Created and Documented by Clint Myers-
+-Created and Documented by Clint Myers-
 
 Introduction:
 
