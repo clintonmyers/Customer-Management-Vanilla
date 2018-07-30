@@ -1,0 +1,70 @@
+html, body, #bg {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: block;
+    color: white;
+}
+
+#header, #footer {
+    height: 8%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+#header {
+    justify-content: space-between;
+}
+
+#footer {
+    justify-content: center;
+}
+
+#logo {
+    height: 100%;
+    width: 37%;
+    background-image: url('LogoInverse.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: center;
+}
+
+#registerLogin {
+    height: 100%;
+    width: 37%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#registerLogin a {
+    margin-right: 5%;
+}
+
+#bg {
+    background-image: url('snowtrees.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+#alpha, #message {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#alpha {
+    height: 70%;
+}
+
+#message {
+    height: 14%;
+    margin: 0 auto;
+    padding: 0;
+}
